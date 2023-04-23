@@ -125,7 +125,7 @@ const Resume = (props) => {
         <div className="experience-description">
           <span className="resume-description-text">
             Currently working as MERN stack web and mobile developer and also an
-            member of web3 and blockchain Zetech University.
+            member of web3 and blockchain Taita Taveta University.
           </span>
         </div>
         <div className="experience-description">
