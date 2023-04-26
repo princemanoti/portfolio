@@ -13,9 +13,6 @@ const Profile = () => {
               <a href="https://www.facebook.com/princemanoti">
                 <i className="fa fa-facebook-square" />
               </a>
-              <a href="#">
-                <i className="fa fa-google-plus-square"/>
-              </a>
               <a href="https://www.instagram.com/prince_manoti">
                 <i className="fa fa-instagram"/>
               </a>
@@ -63,7 +60,7 @@ const Profile = () => {
               {" "}
               Hire Me{" "}
             </button>
-            <a href="Resume.pdf" download="Festus' Resume">
+            <a href="Resume.pdf" download="'Festus' Resume">
               <button className="btn highlighted-btn"> Get Resume </button>
             </a>
           </div>

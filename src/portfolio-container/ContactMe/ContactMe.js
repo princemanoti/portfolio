@@ -93,7 +93,7 @@ const ContactMe = (props) => {
           <a href="https://web.facebook.com/princemanoti/">
             <i className="fa fa-facebook-square" />
           </a>
-          <a href="htps://www.accounts.google.com/festuslangatk4@gmail.com/">
+          <a href="https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail">
             <i className="fa fa-google-plus-square" />
           </a>
           <a href="https://www.instagram.com/prince_manoti/">

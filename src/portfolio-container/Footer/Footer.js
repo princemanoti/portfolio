@@ -18,7 +18,7 @@ const Footer = () => {
     //   { icon: faGithub, link: '' },
     {
       icon: faInstagram,
-      link: "https://www.instagram.com/princemanoti/",
+      link: "https://www.instagram.com/prince_manoti/",
     },
   ];
 

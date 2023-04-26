@@ -71,7 +71,7 @@ const AboutMe = (props) => {
                 {" "}
                 Hire Me{" "}
               </button>
-              <a href="Resume.pdf" download="Festus' Resume">
+              <a href="Resume.pdf" download="Festus'Resume.">
                 <button className="btn highlighted-btn"> Get Resume </button>
               </a>
             </div>
