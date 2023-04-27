@@ -72,6 +72,13 @@ const Resume = (props) => {
       subHeading: "Technologies Used: React JS, Bootstrap",
     },
     {
+      title: "Robofriends Website",
+      duration: {fromDate: "2023", toDate: "2023"},
+      description: "This is a Robots App that is used to search different Robots.",
+      <a href="https://princemanoti.github.io/robofriends">
+      subHeading: "Technologies Used: React JS",
+    },
+    {
       title: "React Movie App ",
       duration: { fromDate: "2022", toDate: "2022" },
       description:
