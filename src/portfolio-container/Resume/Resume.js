@@ -68,6 +68,7 @@ const Resume = (props) => {
       duration: { fromDate: "2022", toDate: "2022" },
       description:
         "A Personal Portfolio website to showcase all my details and projects at one place.",
+      <a href="https://princemanoti.github.io/portfolio" >
       subHeading: "Technologies Used: React JS, Bootstrap",
     },
     {
